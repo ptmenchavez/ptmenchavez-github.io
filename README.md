@@ -3,7 +3,7 @@
 Welcome to my personal GitHub page! It is still a work in progress. Updates to come!
 
 ### LinkedIn Profile
-[Profile](https://www.linkedin.com/in/ptmenchavez)
+[Profile](https://www.linkedin.com/in/ptmenchavez){:target="_blank"}
 
 ## MOOCs
 Below is a link to a list of MOOCs I have completed:
