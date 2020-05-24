@@ -5,6 +5,11 @@ Welcome to my personal GitHub page! It is still a work in progress. Updates to c
 ### LinkedIn Profile
 [Profile](https://www.linkedin.com/in/ptmenchavez){:target="_blank"}
 
+## Favorite Podcasts
+A page for my favorite podcasts and episodes.
+
+[Podcasts](ptmenchavez-github.io/podcasts)
+
 ## MOOCs
 Below is a link to a list of MOOCs I have completed:
 
