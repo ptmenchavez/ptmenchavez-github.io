@@ -29,6 +29,3 @@ By Johns Hopkins University
 * R Programming
 * Getting and Cleaning Data
 
-
-
-Go back to [Homepage](https://ptmenchavez.github.io/ptmenchavez-github.io/)
