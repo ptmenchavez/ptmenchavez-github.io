@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MOOCs"
-permalink: /moocs/
+permalink: /moocs/moocs.md
 ---
 
 # EdX
