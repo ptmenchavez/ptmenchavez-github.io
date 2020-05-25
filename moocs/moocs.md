@@ -1,3 +1,9 @@
+---
+layout: page
+title: "MOOCs"
+permalink: /moocs/
+---
+
 # EdX
 
 ## Analytics: Essential Tools and Methods
