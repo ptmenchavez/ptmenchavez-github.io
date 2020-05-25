@@ -8,7 +8,7 @@ Welcome to my personal GitHub page! It is still a work in progress. Updates to c
 ## Favorite Podcasts
 A page for my favorite podcasts and episodes.
 
-[Podcasts](ptmenchavez.github.io/podcasts)
+[Podcasts](/podcasts/podcasts.md)
 
 ## MOOCs
 Below is a link to a list of MOOCs I have completed:
