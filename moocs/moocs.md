@@ -8,6 +8,11 @@ By Georgia Tech
 
 # Coursera
 
+## Statistical Data Visualization with Seaborn
+Guided project visualizing data from Breast Cancer Wisconsin (Diagnostic) Data Set
+
+[Repo](https://github.com/ptmenchavez/Statistical_Data_Visualization_with_Seaborn_-Guided_Project-){:target="_blank"}
+
 ## Genomic Data Science Specialization
 By Johns Hopkins University
 
